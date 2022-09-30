@@ -1,13 +1,14 @@
-# CRUD APP WITH REACT REDUX AND FIREBASE
-[]: # Title: CRUD APP WITH REACT REDUX
-[]: # Date: 2022-09-30 00:00
-[]: # Tags: react, redux, Material U
-[]: # Category: react
-[]: # Slug: crud-app-with-react-redux
+# CRUD APP WITH REACT REDUX
 
-[]: # Summary: This is a simple CRUD app with react redux and firebase
+# Title: CRUD APP WITH REACT REDUX
+# Date: 2022-09-30 00:00
+# Tags: react, redux, Material U
+# Category: react
+# Slug: crud-app-with-react-redux
 
-[]: # Status: In Progress
+# Summary: This is a simple CRUD app with react redux and firebase
+
+# Status: In Progress
 
 
 # Getting Started with Create React App
