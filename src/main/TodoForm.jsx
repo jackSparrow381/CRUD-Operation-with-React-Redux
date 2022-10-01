@@ -5,10 +5,11 @@ export const TodoForm = ({ addTodo }) => {
   const [title, setTitle] = React.useState("");
 
   const handleTitleChange = () => {
-    addTodo({
+    const todo = {
       id: Math.floor(Math.random() * 1000),
-      title: title,
-    });
+      name: title,
+    };
+    addTodo(todo);
     setTitle("");
   };
 
