@@ -1,9 +1,10 @@
 import './App.css';
+import { TodoManagement } from './main/TodoManagement';
 
 function App() {
   return (
     <div className="App">
-    CRUD TODO APP WITH REACT REDUX
+      <TodoManagement />
     </div>
   );
 }
